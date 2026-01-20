@@ -1,0 +1,51 @@
+{"id":"crispr_1","prompt":"Plan a CRISPR screen to identify genes regulating T cell exhaustion. Include controls, readout, and analysis steps."}
+{"id":"crispr_2","prompt":"Design a pooled CRISPR knockout experiment to identify genes involved in drug resistance in cancer cells."}
+{"id":"crispr_3","prompt":"Outline a CRISPR interference strategy to study transcriptional regulators of interferon signaling."}
+{"id":"rnaseq_1","prompt":"Design an RNA-seq experiment to compare gene expression between treated and untreated cells."}
+{"id":"rnaseq_2","prompt":"Explain how you would analyze RNA-seq data to identify differentially expressed pathways."}
+{"id":"rnaseq_3","prompt":"Propose an RNA-seq study to investigate immune cell heterogeneity in tumor samples."}
+{"id":"proteomics_1","prompt":"Design a mass spectrometry–based proteomics experiment to identify proteins interacting with a target kinase."}
+{"id":"proteomics_2","prompt":"Outline an experimental pipeline to quantify global proteome changes after drug treatment."}
+{"id":"chipseq_1","prompt":"Plan a ChIP-seq experiment to identify genome-wide binding sites of a transcription factor."}
+{"id":"chipseq_2","prompt":"Describe how ChIP-seq data can be analyzed to compare binding profiles across conditions."}
+{"id":"atacseq_1","prompt":"Design an ATAC-seq experiment to study chromatin accessibility changes during cell differentiation."}
+{"id":"flowcyt_1","prompt":"Outline a flow cytometry experiment to characterize immune cell populations in blood samples."}
+{"id":"flowcyt_2","prompt":"Propose a gating strategy to distinguish activated versus exhausted T cells."}
+{"id":"microscopy_1","prompt":"Design a fluorescence microscopy experiment to study protein localization in live cells."}
+{"id":"microscopy_2","prompt":"Explain how time-lapse imaging could be used to study cell migration."}
+{"id":"animal_1","prompt":"Design an in vivo mouse experiment to test the efficacy of an immunotherapy treatment."}
+{"id":"animal_2","prompt":"Outline how you would assess toxicity of a new drug candidate in an animal model."}
+{"id":"clinical_1","prompt":"Describe the design of a randomized controlled trial to evaluate a new cancer therapy."}
+{"id":"clinical_2","prompt":"Explain how endpoints and controls should be selected for a Phase II clinical trial."}
+{"id":"statistics_1","prompt":"Explain how you would analyze survival data from a clinical study."}
+{"id":"statistics_2","prompt":"Describe appropriate statistical tests for comparing multiple experimental conditions."}
+{"id":"mlbio_1","prompt":"Propose a machine learning approach to predict drug response from gene expression data."}
+{"id":"mlbio_2","prompt":"Explain how overfitting can be avoided when training models on biological datasets."}
+{"id":"mlbio_3","prompt":"Design an evaluation strategy for a predictive model used in biomedical research."}
+{"id":"systems_1","prompt":"Outline a pipeline for automated data extraction from scientific research articles."}
+{"id":"systems_2","prompt":"Describe how natural language processing could assist in systematic literature reviews."}
+{"id":"materials_1","prompt":"Design an experiment to test the mechanical properties of a new composite material."}
+{"id":"materials_2","prompt":"Outline how you would characterize thermal conductivity in a novel alloy."}
+{"id":"chemistry_1","prompt":"Design an experiment to measure the reaction rate of an enzyme-catalyzed process."}
+{"id":"chemistry_2","prompt":"Explain how spectroscopy can be used to identify unknown chemical compounds."}
+{"id":"physics_1","prompt":"Outline an experiment to measure the electrical conductivity of a semiconductor."}
+{"id":"physics_2","prompt":"Describe how noise and uncertainty should be handled in physical measurements."}
+{"id":"neuro_1","prompt":"Design an experiment to study synaptic plasticity in neuronal cultures."}
+{"id":"neuro_2","prompt":"Explain how imaging techniques can be used to study brain activity."}
+{"id":"ecology_1","prompt":"Design a field study to assess the impact of climate change on plant biodiversity."}
+{"id":"ecology_2","prompt":"Outline methods to analyze population dynamics in an ecosystem."}
+{"id":"genetics_1","prompt":"Explain how linkage analysis can be used to identify disease-associated genes."}
+{"id":"genetics_2","prompt":"Design a study to investigate heritability of a complex trait."}
+{"id":"computational_1","prompt":"Outline a simulation-based approach to study protein folding."}
+{"id":"computational_2","prompt":"Describe how parameter sensitivity analysis can be performed for a computational model."}
+{"id":"review_1","prompt":"Propose a framework for systematically reviewing literature in a fast-evolving scientific field."}
+{"id":"review_2","prompt":"Explain common sources of bias in scientific meta-analyses and how to mitigate them."}
+{"id":"metabolomics_1","prompt":"Design a metabolomics experiment to identify metabolic changes associated with hypoxia in cancer cells."}
+{"id":"metabolomics_2","prompt":"Outline how untargeted metabolomics data can be analyzed to discover altered metabolic pathways."}
+{"id":"singlecell_1","prompt":"Propose a single-cell RNA-seq study to characterize rare immune cell subsets in inflamed tissue."}
+{"id":"singlecell_2","prompt":"Explain how batch effects should be detected and corrected in single-cell transcriptomic datasets."}
+{"id":"imaging_3d_1","prompt":"Design a 3D tissue imaging experiment to map spatial organization of cell types in organoids."}
+{"id":"biophysics_1","prompt":"Outline an experiment to measure protein–protein binding kinetics using surface plasmon resonance."}
+{"id":"bioinformatics_1","prompt":"Propose a pipeline for integrating genomics and proteomics data to identify disease biomarkers."}
+{"id":"epigenetics_1","prompt":"Design an experiment to study DNA methylation changes associated with cellular aging."}
+
