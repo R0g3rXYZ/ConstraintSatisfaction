@@ -85,4 +85,3 @@ dependencies:
       - wedlm==0.1.0
       - werkzeug==3.1.4
       - xxhash==3.6.0
-prefix: /nfs/home/cbarbour/.conda/envs/wedlm
